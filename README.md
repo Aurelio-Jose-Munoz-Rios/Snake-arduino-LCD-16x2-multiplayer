@@ -5,7 +5,7 @@ It features **multiplayer support (2–3 players)**, **joystick controls**, **gr
 
 ---
 
-## 🎮 Features
+## Features
 - Multiplayer mode for 2–3 players.
 - Snake movement, growth, and collision detection.
 - LCD 16x2 screen used to render the game with custom characters.
@@ -15,7 +15,7 @@ It features **multiplayer support (2–3 players)**, **joystick controls**, **gr
 
 ---
 
-## 🛠️ Required Hardware
+## Required Hardware
 - **Arduino Uno R3** (ATmega328P).
 - **1x LCD 16x2** (HD44780 compatible, 4-bit mode).
 - **Up to 3x Joystick modules** (KY-023 or similar).
@@ -25,7 +25,7 @@ It features **multiplayer support (2–3 players)**, **joystick controls**, **gr
 
 ---
 
-## 🔌 Wiring Diagram (Connections)
+## Wiring Diagram (Connections)
 
 ### LCD 16x2 (in 4-bit mode)
 | LCD Pin | Arduino Pin |
@@ -60,7 +60,7 @@ Each joystick uses **2 analog pins** (X and Y) and 1 digital pin (button, option
 
 ---
 
-## 📚 Required Libraries
+## Required Libraries
 Make sure you install the following libraries in the Arduino IDE:  
 
 - **LiquidCrystal** (already included with Arduino IDE)  
