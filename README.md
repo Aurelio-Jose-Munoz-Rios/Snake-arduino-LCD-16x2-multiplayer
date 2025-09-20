@@ -74,6 +74,8 @@ Make sure you install the following libraries in the Arduino IDE:
 - **LiquidCrystal** (already included with Arduino IDE)  
   ```cpp
   #include <LiquidCrystal.h>
+
+## Block Diagram
 <img width="1757" height="815" alt="Tablero en blanco (4)" src="https://github.com/user-attachments/assets/02ba82cb-56de-4ebf-9204-7636c9a17807" />
 
 
