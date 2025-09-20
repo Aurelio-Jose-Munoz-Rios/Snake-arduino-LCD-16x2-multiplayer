@@ -21,7 +21,8 @@ It features **multiplayer support (2–3 players)**, **joystick controls**, **gr
 
 Try it online Wokwi Simulation: [Snake Game Simulation](https://wokwi.com/projects/442588059647901697)
 
-[Watch this project on YouTube]([https://www.youtube.com/watch?v=XXXXXXXXXXX](https://www.youtube.com/watch?v=7ybJCi5B7xE))
+[![Watch the demo](https://img.youtube.com/vi/7ybJCi5B7xE/0.jpg)](https://www.youtube.com/watch?v=7ybJCi5B7xE)
+
 
 - **Arduino Uno R3** (ATmega328P).
 - **1x LCD 16x2** (HD44780 compatible, 4-bit mode).
