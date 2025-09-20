@@ -16,6 +16,9 @@ It features **multiplayer support (2–3 players)**, **joystick controls**, **gr
 ---
 
 ## Required Hardware
+
+<img width="715" height="768" alt="esquematic" src="https://github.com/user-attachments/assets/cb20ac5a-8ab0-4ad0-a0a5-9487bb7a22bb" />
+
 - **Arduino Uno R3** (ATmega328P).
 - **1x LCD 16x2** (HD44780 compatible, 4-bit mode).
 - **Up to 3x Joystick modules** (KY-023 or similar).
@@ -66,3 +69,6 @@ Make sure you install the following libraries in the Arduino IDE:
 - **LiquidCrystal** (already included with Arduino IDE)  
   ```cpp
   #include <LiquidCrystal.h>
+<img width="1757" height="815" alt="Tablero en blanco (3)" src="https://github.com/user-attachments/assets/2b434575-fb59-4c64-8d26-991eff3c2824" />
+
+  
