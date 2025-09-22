@@ -71,7 +71,7 @@ Each joystick uses **2 analog pins** (X and Y) and 1 digital pin (button, option
 ## Required Libraries
 Make sure you install the following libraries in the Arduino IDE:  
 
-- **LiquidCrystal** [(LiquidCrystal by arduino)  ](https://www.arduino.cc/en/Reference/LiquidCrystal)
+- **LiquidCrystal** [LiquidCrystal by arduino](https://www.arduino.cc/en/Reference/LiquidCrystal)
   ```cpp
   #include <LiquidCrystal.h>
 
